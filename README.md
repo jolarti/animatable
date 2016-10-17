@@ -3,7 +3,8 @@
 
 **CSS property transitions**
 
-Pure CSS transform animations and transitions of css/html properties. View the demo site here: [leaverou.github.io/animatable/](http://leaverou.github.io/animatable/).
+What kind of transitions can you create with only one property? This is what this experiment aims to explore. Pure CSS transform animations and transitions of css/html properties. 
+  View the demo site here: [leaverou.github.io/animatable/](http://leaverou.github.io/animatable/).
 
 #### Preview
 
