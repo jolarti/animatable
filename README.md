@@ -5,6 +5,7 @@
 
 What kind of transitions can you create with only one property? This is what this experiment aims to explore. Pure CSS transform animations and transitions of css/html properties. 
   View the demo site here: [leaverou.github.io/animatable/](http://leaverou.github.io/animatable/).
+  View Lea's original article here: [www.lea.verou.me/2011/](http://lea.verou.me/2011/10/animatable-a-css-transitions-gallery/).
 
 #### Preview
 
